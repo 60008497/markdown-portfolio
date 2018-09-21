@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- [ ] A
+- [ ] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
